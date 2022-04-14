@@ -1,3 +1,6 @@
 body {
   background-color: blue;
+  color: #dddd
+  font-family:Arial
+    Margin:10% 20%;
 }
